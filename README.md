@@ -46,21 +46,30 @@ To set APP Key
 
 
 
-## OUTPUT 
+## OUTPUT  :
+
+1) first, Clicked on the network layer.
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/f4a3dc3c-0a44-4cde-9734-b4339f5302ad)
 
+2) Gateway created.
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/3e48bd0c-fee0-4e25-8610-d394e52f6ee9)
 
+3) Gateway created and the general settings view of the gateway created.
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/24c76d62-0c88-4ebe-a301-5713f0a70752)
 
+4) Created Gateway overview.
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/d57d938b-7fa6-49ff-8c44-606044457521)
 
+5) Channel for the gateway is created and its general settings view.
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/a3c9dc59-da82-4f01-9cfa-ca95e12d0b0d)
 
+6) Created Channel overview.
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/6a43b6b5-1fd5-4541-bcbf-0d7001ffc310)
 
+7) Channel view with description.
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/c0d26237-1ebd-4257-9f1f-f30d21f2aaab)
 
+8) End device of the channel is created.
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/b0f7cd64-63a6-4f87-819b-12ecce820497)
 
 
