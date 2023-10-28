@@ -61,6 +61,7 @@ To set APP Key
 
 ![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/c0d26237-1ebd-4257-9f1f-f30d21f2aaab)
 
+![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/b0f7cd64-63a6-4f87-819b-12ecce820497)
 
 
 ## Results: 
