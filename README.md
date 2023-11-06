@@ -22,14 +22,14 @@ Permissioned access and log-ins for network users Gateway access to the Internet
  2. Click on the nework server as shown blow 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
  3. click on the add gateway 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/e62ff028-99bc-485e-9808-fbb6e124f8b2)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
-4. click on the lora options , lora - frequency plan 
-5. click on channel s and create a new channel after which you can add a new end device 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
-6. add the attributesin the end device as  shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
+![243757727-47c2e08d-6598-4437-8b07-f213d6f3b8ac](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/59e5f096-724f-441d-934b-cf0005ccf180)
+![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/4b903e59-72ed-4e6b-97a4-a2193810b353)
+![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/ef49436e-eb4b-40df-927d-b150d7bc1147)
+5. click on the lora options , lora - frequency plan 
+6. click on channel s and create a new channel after which you can add a new end device 
+![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/455e324c-29cd-446c-a28e-fffc561eb856)
+7. add the attributesin the end device as  shown below 
+![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/e5d6d358-793b-4d65-a916-d62a8a96905a)
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
@@ -44,36 +44,10 @@ AT Commands to set initially (Mandatory)
 To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
-
-
 ## OUTPUT  :
-
-1) first, Clicked on the network layer.
-![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/f4a3dc3c-0a44-4cde-9734-b4339f5302ad)
-
-2) Gateway created.
-![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/3e48bd0c-fee0-4e25-8610-d394e52f6ee9)
-
-3) Gateway created and the general settings view of the gateway created.
-![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/24c76d62-0c88-4ebe-a301-5713f0a70752)
-
-4) Created Gateway overview.
-![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/d57d938b-7fa6-49ff-8c44-606044457521)
-
-5) Channel for the gateway is created and its general settings view.
-![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/a3c9dc59-da82-4f01-9cfa-ca95e12d0b0d)
-
-6) Created Channel overview.
-![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/6a43b6b5-1fd5-4541-bcbf-0d7001ffc310)
-
-7) Channel view with description.
-![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/c0d26237-1ebd-4257-9f1f-f30d21f2aaab)
-
-8) End device of the channel is created.
-![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/b0f7cd64-63a6-4f87-819b-12ecce820497)
+![image](https://github.com/Prasannalakshmiganesan/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/118610231/f7491d6e-390c-4305-a6da-c1b00aa3edaa)
 
 
 ## Results: 
-
-  The Network server and end device for traferring data on the network has been accomplished.
+The Network server and end device for traferring data on the network has been accomplished.
 
